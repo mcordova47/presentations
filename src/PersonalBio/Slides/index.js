@@ -1,2 +1,6 @@
 export { Slide_1 } from './001.js'
 export { Slide_2 } from './002.js'
+export { Slide_3 } from './003.js'
+export { Slide_4 } from './004.js'
+export { Slide_5 } from './005.js'
+export { Slide_6 } from './006.js'
