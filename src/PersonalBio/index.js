@@ -17,6 +17,7 @@ import {
   Slide_10,
   Slide_11,
   Slide_12,
+  Slide_13,
 } from './Slides'
 
 export const PersonalBio = () => (
@@ -34,5 +35,6 @@ export const PersonalBio = () => (
     <Slide component={Slide_10} />
     <Slide component={Slide_11} />
     <Slide component={Slide_12} />
+    <Slide component={Slide_13} />
   </Presentation>
 )
