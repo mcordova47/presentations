@@ -3,7 +3,7 @@ import React from 'react'
 const Image = ({ alt, style, ...rest }) => (
   <img
     style={{
-      maxHeight: 450,
+      maxHeight: 400,
       maxWidth: 700,
       ...style
     }}

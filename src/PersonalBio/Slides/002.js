@@ -15,7 +15,11 @@ export const Slide_2 = ({ isPresenterMode }) => (
           definitely chocolate chip cookies.
         </PresenterNotes>
         <Step index={1}>
+          <h2>Chocolate Chip Cookies</h2>
           <Image src={cookies} alt="cookies" />
         </Step>
+        <PresenterNotes isPresenterMode={isPresenterMode}>
+          Side note, I do love cookie dough, but I prefer cookies.
+        </PresenterNotes>
     </CenteredContentSlide>
 )

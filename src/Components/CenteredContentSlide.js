@@ -2,7 +2,7 @@ import React from 'react'
 import { ContentSlide } from 'react-presents'
 
 const CenteredContentSlide = ({ children }) => (
-    <ContentSlide style={{ textAlign: 'center', margin: '0 100px' }}>
+    <ContentSlide style={{ textAlign: 'center', padding: '20px 125px' }}>
         {children}
     </ContentSlide>
 )
