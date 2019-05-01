@@ -7,8 +7,7 @@ export const Slide_7 = ({ isPresenterMode }) => (
     <TitleSlide>
         <h1>Mini-Lesson: Roth Conversion Ladders</h1>
         <h2>
-          How to Retire Early <em>and</em>&nbsp; Take Advantage of Tax Deferred
-          Investments
+          How to Retire Early <em>and</em>&nbsp; Defer Taxes
         </h2>
         <PresenterNotes isPresenterMode={isPresenterMode}>
           I'm not sure whether any of this is relevant for those of us outside
