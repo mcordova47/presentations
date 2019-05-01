@@ -6,7 +6,7 @@ import PresenterNotes from '../../Components/PresenterNotes'
 
 export const Slide_9 = ({ isPresenterMode }) => (
   <CenteredContentSlide>
-    <h1>Why Contribute to Traditional (Tax Deferred) 401k?</h1>
+    <h1>Why Contribute to a Traditional (Tax Deferred) 401k?</h1>
     <Step index={1}>
       <p>Lower your current tax burden</p>
     </Step>
